@@ -6,6 +6,6 @@ Installation
 
 Open your terminal and run
 
-wget -O- https://github.com/joejb/Fully-Upgrade-Using-wget/blob/master/Fully-Upgrade-Using-wget.sh | sh
+wget -O- https://github.com/joejb/Fully-Upgrade-Using-wget/blob/master/FUUW.sh | sh
 
 After it's done, enjoy.
